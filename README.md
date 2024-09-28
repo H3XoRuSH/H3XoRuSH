@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I am Rae Gabriel E. Samonte. A lot of my friends call me "*Gab*".
+Hi, I’m Rae Gabriel E. Samonte, but you can call me **Gab**.
 
-I am currently taking BS Computer Science in UP Diliman (expected graduation: 2024).
+I graduated with a BS in Computer Science from the University of the Philippines Diliman. I have a passion for programming, especially competitive programming and I regularly participate in Codeforces and AtCoder contests. I also enjoy full stack coding, with a particular interest in backend development. Additionally, I love cats, dogs and music.
 
-I love programming. I love cats and dogs. I love music.
-
-If you have inquiries/collab ideas/proposals, hit me up on gmail: samontegabriel2001@gmail.com
+For any inquiries, collaboration ideas, or proposals, feel free to email me at samontegabriel2001@gmail.com.
 
 <!--
 **H3XoRuSH/H3XoRuSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
