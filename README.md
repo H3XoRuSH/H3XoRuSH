@@ -6,7 +6,7 @@ I graduated with a BS in Computer Science from the University of the Philippines
 
 Currently, I am working as a **Junior Associate Software Developer** at **Azeus Systems Philippines Limited**.
 
-For any inquiries, collaboration ideas, or proposals, feel free to email me at samontegabriel2001@gmail.com.
+Here's my [CV](https://github.com/H3XoRuSH/H3XoRuSH/blob/main/CV%20-%20Samonte%2C%20Rae%20Gabriel.pdf)! For any inquiries, collaboration ideas, or proposals, feel free to email me at samontegabriel2001@gmail.com.
 
 <!--
 **H3XoRuSH/H3XoRuSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
