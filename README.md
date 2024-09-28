@@ -2,7 +2,9 @@
 
 Hi, I’m Rae Gabriel E. Samonte, but you can call me **Gab**.
 
-I graduated with a BS in Computer Science from the University of the Philippines Diliman. I have a passion for programming, especially competitive programming and I regularly participate in Codeforces and AtCoder contests. I also enjoy full stack coding, with a particular interest in backend development. Additionally, I love cats, dogs and music.
+I graduated with a BS in Computer Science from the University of the Philippines Diliman. I have a passion for programming, especially competitive programming, and I regularly participate in Codeforces and AtCoder contests. I also enjoy full stack coding, with a particular interest in backend development. Additionally, I love cats, dogs, and music.
+
+Currently, I am working as a **Junior Associate Software Developer** at **Azeus Systems Philippines Limited**.
 
 For any inquiries, collaboration ideas, or proposals, feel free to email me at samontegabriel2001@gmail.com.
 
